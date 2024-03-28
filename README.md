@@ -6,6 +6,7 @@ This is a simple calculator application built using Html, Css and JavaScript.
 - Clear button to reset the calculator
 
 # Demo
+![alt text](<Screenshot 2024-03-19 180156-1.png>)
 
 # Installation 
 1. Clone the repository:
